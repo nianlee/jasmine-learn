@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nianlee/jasmine-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nianlee/jasmine-learn/issues"
+  },
+  "homepage": "https://github.com/nianlee/jasmine-learn#readme",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
